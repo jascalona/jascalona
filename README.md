@@ -3,17 +3,7 @@
 
 
 
-         <header id="home" class="header">
-            <div class="overlay"></div>
-            <div class="header-content">
-                <h6>Jose Escalona Dev®</h6> 
-                <p style="font-size: 20px; margin-top: -18px; margin-bottom: 15px;">• HTML • CSS • PHP • Python • Postgresql • SQL-Server </p>
-                    <small>Analista de Datos</small>
-                    <br>
-                    <br>
-                <button class="btn btn-outline-light">Contactanos</button>
-            </div>      
-        </header> ://images.unsplash.com/photo-1543191878-f6a3e470454e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" /></a> </p>
+       <p align="left">asasas <a href="https://twitter.com/" target="blank"><img src="https://images.unsplash.com/photo-1543191878-f6a3e470454e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
