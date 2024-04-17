@@ -7,10 +7,9 @@
             <div style="position: absolute;" class="header-content">
                 <h6>Jose Escalona Dev®</h6> 
                 <p style="font-size: 20px; margin-top: -18px; margin-bottom: 15px;">• HTML • CSS • PHP • Python • Postgresql • SQL-Server </p>
-                    <small>Analista de Datos</small>
+                    <small>Data Analyst </small>
                     <br>
                     <br>
-                <button class="btn btn-outline-light">Contactanos</button>
             </div>     
 
 
