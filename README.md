@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://media.licdn.com/dms/image/D4E16AQFug4Kbt5RksA/profile-displaybackgroundimage-shrink_350_1400/0/1713385869967?e=1718841600&v=beta&t=99tkPZq5CWwSBZAFjW5x0l4ut9b81mreJ2ediwQrR90)" alt="" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
