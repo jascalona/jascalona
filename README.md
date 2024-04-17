@@ -2,7 +2,7 @@
 <h1 align="center">Hello, nice to meet you, my name is Jose and I am a data analyst.  💻🔧</></h1>
 
 
-<!-- Page Header -->
+
          <header id="home" class="header">
             <div class="overlay"></div>
             <div class="header-content">
@@ -13,7 +13,7 @@
                     <br>
                 <button class="btn btn-outline-light">Contactanos</button>
             </div>      
-        </header><!-- End of Page Header -->   ://images.unsplash.com/photo-1543191878-f6a3e470454e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" /></a> </p>
+        </header> ://images.unsplash.com/photo-1543191878-f6a3e470454e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
