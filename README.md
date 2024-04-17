@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, nice to meet you, my name is Jose and I am a data analyst.  </>💻🔧
 
 <!--
 **jascalona/jascalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
