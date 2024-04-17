@@ -3,7 +3,7 @@
 
        
  <div class="overlay"></div>
-        <img src="https://images.unsplash.com/photo-1543191878-f6a3e470454e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >
+        <img src="https://mega.nz/file/V2EiSSRJ#RoPiJU8svm2K3CIMkyYH5adqdPGFy4ioLlQ05r-d9DA" >
             <div style="position: absolute;" class="header-content">
                 <h6>Jose Escalona Dev®</h6> 
                 <p style="font-size: 20px; margin-top: -18px; margin-bottom: 15px;">• HTML • CSS • PHP • Python • Postgresql • SQL-Server </p>
