@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, nice to meet you, my name is Jose and I am a data analyst.  💻🔧</></h1>
+<h1 align="center">Hello, nice to meet you, my name is Jose.  💻🔧</></h1>
 
        
  <div class="overlay"></div>
