@@ -6,7 +6,7 @@
         <img src="https://mega.nz/file/V2EiSSRJ#RoPiJU8svm2K3CIMkyYH5adqdPGFy4ioLlQ05r-d9DA" >
             <div style="position: absolute;" class="header-content">
                 <h6>Jose Escalona Dev®</h6> 
-                <p style="font-size: 20px; margin-top: -18px; margin-bottom: 15px;">• HTML • CSS • PHP • Python • Postgresql • SQL-Server </p>
+                <p style="font-size: 20px; margin-top: -18px; margin-bottom: 15px;"> • JavaScript • PHP • Java • Postgresql • SQL-Server </p>
                     <small>Data Analyst </small>
                     <br>
                     <br>
