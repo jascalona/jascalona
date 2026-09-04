@@ -3,7 +3,7 @@
 
        
  <div class="overlay"></div>
-        <img src="https://mega.nz/file/V2EiSSRJ#RoPiJU8svm2K3CIMkyYH5adqdPGFy4ioLlQ05r-d9DA" >
+        <img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" >
             <div style="position: absolute;" class="header-content">
                 <h6>Batman Destroy</h6> 
                 <p style="font-size: 20px; margin-top: -18px; margin-bottom: 15px;"> • Golang • Bash • Java • Postgresql • SQL-Server </p>
