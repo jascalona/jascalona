@@ -14,13 +14,15 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-### 🛠️ Languages, Frameworks & Infrastructure
+### 🛠️ Languages, Frameworks, Infrastructure & Testing
 
 <p align="left">
   <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="45" height="45"/></a>
@@ -33,11 +35,17 @@
   &nbsp;
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
   &nbsp;
+  <a href="https://kafka.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45"/></a>
+  &nbsp;
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/></a>
+  &nbsp;
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>
   &nbsp;
   <a href="https://prometheus.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="45" height="45"/></a>
   &nbsp;
   <a href="https://www.grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/></a>
+  &nbsp;
+  <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/></a>
   &nbsp;
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
   &nbsp;
@@ -46,7 +54,7 @@
 
 ---
 
-### Github Stats
+### 📊 Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jascalona&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Github Stats" width="48%" />
@@ -55,7 +63,7 @@
 
 ---
 
-### Connect with me:
+### 📬 Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/jose-escalona-8a2b30268" target="_blank">
