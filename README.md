@@ -1,13 +1,13 @@
 
-<h1 align="center">Hello, nice to meet you, my name is Jose.  💻🔧</></h1>
+<h1 align="center">Hello world, papus  👋💻</></h1>
 
        
  <div class="overlay"></div>
         <img src="https://mega.nz/file/V2EiSSRJ#RoPiJU8svm2K3CIMkyYH5adqdPGFy4ioLlQ05r-d9DA" >
             <div style="position: absolute;" class="header-content">
-                <h6>Jose Escalona Dev®</h6> 
-                <p style="font-size: 20px; margin-top: -18px; margin-bottom: 15px;"> • JavaScript • PHP • Java • Postgresql • SQL-Server </p>
-                    <small>Data Analyst </small>
+                <h6>Batman Destroy</h6> 
+                <p style="font-size: 20px; margin-top: -18px; margin-bottom: 15px;"> • Golang • Bash • Java • Postgresql • SQL-Server </p>
+                    <small>Backend Developer </small>
                     <br>
                     <br>
             </div>     
