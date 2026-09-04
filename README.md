@@ -6,13 +6,12 @@
 
   <br><br>
 
-  <h3>🚀 Systems Engineer | SDET | Backend & DevOps Enthusiast</h3>
+  <h3>Systems Engineer | SDET | Backend & DevOps Enthusiast</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
@@ -47,7 +46,7 @@
 
 ---
 
-### 📊 Github Stats
+### Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jascalona&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Github Stats" width="48%" />
@@ -56,7 +55,7 @@
 
 ---
 
-### 📬 Connect with me:
+### Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/jose-escalona-8a2b30268" target="_blank">
