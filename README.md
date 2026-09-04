@@ -2,7 +2,7 @@
 
   <h1>Hello world, papus 👋💻</h1>
 
-  <img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" width="100%" alt="Header Banner" style="border-radius: 10px;" />
+  <img src="https://www.kali.org/wallpapers/images/2023/kali-cubism.jpg" width="100%" alt="Header Banner" style="border-radius: 10px;" />
 
   <br><br>
 
