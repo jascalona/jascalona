@@ -54,15 +54,6 @@
 
 ---
 
-### Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jascalona&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Github Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jascalona&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
-</div>
-
----
-
 ### Connect with me:
 
 <p align="left">
