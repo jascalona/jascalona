@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Languages, Frameworks, Infrastructure & Testing
+### Languages, Frameworks, Infrastructure & Testing
 
 <p align="left">
   <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="45" height="45"/></a>
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 Github Stats
+### Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jascalona&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Github Stats" width="48%" />
@@ -63,7 +63,7 @@
 
 ---
 
-### 📬 Connect with me:
+### Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/jose-escalona-8a2b30268" target="_blank">
